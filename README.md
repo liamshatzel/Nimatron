@@ -1,2 +1,3 @@
 # Nimatron
-WIP: A short game of Nim, where the user plays against the computer.
+WIP: A short game of [Nim](https://en.wikipedia.org/wiki/Nim) (Subtraction Game) misère style, where the user plays against the computer.
+>The Nimatron is a computer that allows one to play the game Nim. It was first presented in April 1940 at the 1939 New York World's Fair purely as a form of entertainment. >Designed in the winter of 1939 by Edward Condon for the sole purpose of entertaining, it is a digital computer composed of electromechanical relays which allows the lighting of >four lines of seven bulbs. Each player can turn off one or more of them in any line, then the machine takes a turn, and so on. The last to extinguish a light is the winner.
