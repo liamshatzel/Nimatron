@@ -21,7 +21,7 @@ public class Nim{
 			System.out.println("Round " + round + "\n");
 			System.out.print("Enter 1 or 2: ");
 			int i = in.nextInt();
-			while(i > 2){
+			while(!(i == 2 || i == 1)){
 				System.out.println("Please enter either a 1 or 2");
 				i = in.nextInt();
 			}
