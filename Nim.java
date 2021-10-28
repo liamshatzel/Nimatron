@@ -26,7 +26,7 @@ public class Nim{
 				i = in.nextInt();
 			}
 			total -= i;
-			if(total == 0){
+			if(total <= 0){
 				System.out.println("You lost");
 				return;
 			}
